@@ -2,5 +2,5 @@
 the 1st Repository 
 
 Hello! 
-i'm kinda new to this stuff 
+i'm kinda new to these technos 
 learning Javascript and HTML 
